@@ -481,7 +481,7 @@ The notebook contains the model construction, nuclear-data configuration, settin
 The executed notebook is available here:
 
 **Kaggle:**  
-https://www.kaggle.com/code/afridijubairuthso/pwr-pincell-openmc-neutronics/output?scriptVersionId=355667635
+https://www.kaggle.com/code/afridijubairuthso/pwr-pincell-openmc-neutronics/notebook?scriptVersionId=355667635
 
 ### Important reproducibility note
 
