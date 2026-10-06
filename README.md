@@ -337,8 +337,6 @@ Using the stated power, elapsed time, and heavy-metal mass, the physically consi
 
 ### **1.567 GWd/tHM**
 
-Therefore, the `09_keff_burnup.png` figure should be regenerated after correcting the burnup conversion before this repository is presented as a finalized research artifact.
-
 The conceptual depletion `k_eff` results themselves are retained; the issue is specifically the conversion of elapsed time/power/mass into the displayed GWd/tHM axis.
 
 ---
