@@ -8,7 +8,7 @@ A research-oriented **continuous-energy Monte Carlo neutronics workflow for an i
 
 The project combines **fresh-state criticality**, **estimator cross-checking**, **spatial neutron-flux and fission-power mapping**, **continuous-energy spectral analysis**, **thermal/fast flux decomposition**, **spectral-index mapping**, and **fuel depletion/burnup** in one reproducible workflow.
 
-> **Model scope:** This is an **idealized unborated PWR pin-cell model**, not a full-core or fully realistic reactor model. It is intended to demonstrate computational neutronics methodology and provide a research/PhD portfolio artifact.
+> **Model scope:** This is an **idealized unborated PWR pin-cell model**, not a full-core or fully realistic reactor model. It is intended to demonstrate computational neutronics methodology and provide a research portfolio artifact.
 
 ---
 
@@ -110,7 +110,7 @@ The notebook is designed to answer a sequence of increasingly detailed neutronic
               │                                  │
               └────────────────┬─────────────────┘
                                ▼
-                    Publication-quality figures
+                      High-quality Figures
 ```
 
 ---
