@@ -248,10 +248,7 @@ Separate mesh-filtered tallies provide spatial maps of:
 
 A local spectral index is calculated as:
 
-\[
-I_s(x,y)=\frac{\phi_{\mathrm{fast}}(x,y)}
-{\phi_{\mathrm{thermal}}(x,y)}
-\]
+$$I_s(x,y)=\frac{\phi_{\text{fast}}(x,y)}{\phi_{\text{thermal}}(x,y)}$$
 
 where:
 
@@ -290,9 +287,8 @@ for a modeled axial height of:
 
 Therefore:
 
-\[
-P_\mathrm{linear}=175\ \mathrm{W/cm}
-\]
+$$P_{\text{linear}} = 175 \text{ W/cm}$$
+
 
 The initial uranium heavy-metal mass calculated by the notebook is approximately:
 
