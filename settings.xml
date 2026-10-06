@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings>
+  <run_mode>eigenvalue</run_mode>
+  <particles>12000</particles>
+  <batches>50</batches>
+  <inactive>15</inactive>
+  <source type="independent" strength="1.0" particle="neutron">
+    <space type="box">
+      <parameters>-0.3 -0.3 -0.5 0.3 0.3 0.5</parameters>
+    </space>
+  </source>
+  <output>
+    <summary>false</summary>
+    <tallies>false</tallies>
+  </output>
+  <temperature_default>600.0</temperature_default>
+  <temperature_method>nearest</temperature_method>
+</settings>
