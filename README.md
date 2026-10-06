@@ -416,53 +416,6 @@ High-resolution PDF versions are also retained for figures 02–08.
 
 ---
 
-# Repository structure
-
-Recommended repository name:
-
-## `openmc-pwr-pincell-neutronics`
-
-Suggested structure:
-
-```text
-openmc-pwr-pincell-neutronics/
-│
-├── README.md
-│
-├── notebooks/
-│   └── pwr-pincell-openmc-neutronics.ipynb
-│
-├── figures/
-│   ├── 02_flux_map.png
-│   ├── 02_flux_map.pdf
-│   ├── 03_flux_rel_error.png
-│   ├── 03_flux_rel_error.pdf
-│   ├── 04_power_density.png
-│   ├── 04_power_density.pdf
-│   ├── 05_radial_flux_profile.png
-│   ├── 05_radial_flux_profile.pdf
-│   ├── 06_neutron_spectrum.png
-│   ├── 06_neutron_spectrum.pdf
-│   ├── 07_thermal_fast_maps.png
-│   ├── 07_thermal_fast_maps.pdf
-│   ├── 08_spectral_index.png
-│   ├── 08_spectral_index.pdf
-│   ├── 09_keff_burnup.png
-│   └── 10_isotope_evolution.png
-│
-├── results/
-│   ├── statepoint.200.h5
-│   ├── statepoint.50.h5
-│   ├── depletion_results.h5
-│   └── openmc_simulation_n*.h5
-│
-└── docs/
-    └── methodology.md
-```
-
-The large HDF5 statepoint/depletion files are better handled with **Git LFS** rather than ordinary Git blobs.
-
----
 
 # Reproducibility
 
